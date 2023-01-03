@@ -13,14 +13,14 @@ INPUT FILES :
 
 
 
-1a) Antarctica's surface elevation data :
+Antarctica's surface elevation data :
 
 
   REMA_coarsen.nc : Coarsened Antarctica's surface elevation data (1100x900; original : 27500x22500)
   REMA_coarsen_gaussian_s5.nc : Coarsened and filtered Antarctica's surface elevation data (1100x900; Gaussian filter : sigma = 5)
   
 
-1b) Blue Ice Area locations : 
+Blue Ice Area locations : 
 
 
   BIAS_MET_ONLY_coarsen_labeled.nc : Corsened and labeled BIA locations file (1100x900)
@@ -29,7 +29,7 @@ INPUT FILES :
   
 
  
-2) Zooms over meteorites-featured BIAs :
+Zooms over meteorites-featured BIAs :
 
 
  
