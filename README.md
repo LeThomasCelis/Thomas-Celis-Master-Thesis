@@ -14,7 +14,7 @@ Method_2_final.py : source code for the Antarctica's flowlines network calculati
 
 
 
-Antarctica's surface elevation data :
+ANTARCTICA's SURFACE ELEVATION DATA :
 
 
   REMA_coarsen.nc : Coarsened Antarctica's surface elevation data (1100x900; original : 27500x22500)
@@ -22,7 +22,7 @@ Antarctica's surface elevation data :
   REMA_coarsen_gaussian_s5.nc : Coarsened and filtered Antarctica's surface elevation data (1100x900; Gaussian filter : sigma = 5)
   
 
-Blue Ice Area locations : 
+BLUE ICE AREA LOCATIONS FILE : 
 
 
   BIAS_MET_ONLY_coarsen_labeled.nc : Corsened and labeled BIA locations file (1100x900)
@@ -31,7 +31,7 @@ Blue Ice Area locations :
   
 
  
-Zooms over meteorites-featured BIAs :
+ZOOMS OVER METEORITES-FEATURED BIAS :
 
 
  
