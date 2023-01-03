@@ -2,7 +2,7 @@
 Contains codes and files used in Antarctica's Basins and Flowlines Model
 
 
-CODES : 
+1. CODES : 
 
 Method_1_final.py : source code for the Antarctica's basins calculations
 
@@ -10,7 +10,7 @@ Method_2_final.py : source code for the Antarctica's flowlines network calculati
 
 
 
-INPUT FILES : 
+2. INPUT FILES : 
 
 
 
